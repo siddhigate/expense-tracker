@@ -9,7 +9,7 @@ Onboarding Page                           |  Login Page                         
 
 
 
-Add Expense Page           |  Home Page               
-:-------------------------:|:-------------------------:
-![](./ss/addexpense.png)   | ![](./ss/homeage.png)   
+Add Expense Page                      |  Home Page               
+:------------------------------------:|:-------------------------:
+![Add Expense](./ss/addexpense.png)   | ![Home Page](./ss/homepage.png)   
 
