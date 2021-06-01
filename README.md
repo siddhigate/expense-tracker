@@ -3,8 +3,13 @@
 An expense tracker app built using Flutter.
 
 ## Screenshots
-Login Page                 |  Login Page               |  Signup Page
-:-------------------------:|:-------------------------:|:-------------------------:
-![](./ss/onboarding.png)   | ![](./ss/loginpage.png)   | ![](./ss/signuppage.png)
+Onboarding Page                           |  Login Page                         |  Signup Page
+:----------------------------------------:|:-----------------------------------:|:-------------------------:
+![Onboarding page](./ss/onboarding.png)   | ![Login Page](./ss/loginpage.png)   | ![Signup Page](./ss/signuppage.png)
 
+
+
+Add Expense Page           |  Home Page               
+:-------------------------:|:-------------------------:
+![](./ss/addexpense.png)   | ![](./ss/homeage.png)   
 
