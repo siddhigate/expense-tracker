@@ -5,6 +5,6 @@ An expense tracker app built using Flutter.
 ## Screenshots
 Login Page                 |  Signup Page
 :-------------------------:|:-------------------------:
-![](./ss/loginpage.jpeg)   |  ![](./ss/signuppage.jpeg)
+![](./ss/loginpage.jpeg){width:100px}   |  ![](./ss/signuppage.jpeg)
 
 
